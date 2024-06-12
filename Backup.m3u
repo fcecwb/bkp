@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radio",Educadora FM Uberlandia
+http://9036.brasilstream.com.br/mp3
+#EXTINF:-1 group-title="Radio",Antena 1 RJ
+http://a1rj.streams.com.br:7801/stream
+#EXTINF:-1 group-title="Radio",Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1
+#EXTINF:-1 group-title="Radio",Melody FM Ribeirão Preto
+https://clube.cdn.upx.com:8080/stream
+#EXTINF:-1 group-title="Radio",Ouro Verde FM Easy Curitiba
+https://servidor18-1.brlogic.com:7484/live
+#EXTINF:-1 group-title="Radio",Nova Brasil FM SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:-1 group-title="Radio",JB FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
+#EXTINF:-1 group-title="Radio",Itatiaia BH
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Radio",Mundo Livre FM Curitiba
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac
+#EXTINF:-1 group-title="Radio",Alpha FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm
+#EXTINF:-1 group-title="Radio",BandNews FM SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac
+#EXTINF:-1,MasterTV
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1,CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist.m3u8
+#EXTINF:-1,RedeTV! PR
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
